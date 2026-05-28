@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Deep Learning / Models
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Dataset folders
+data/
+datasets/
+
+# Images generated during training
+results/
+outputs/
+
+# Kaggle API
+kaggle.json
